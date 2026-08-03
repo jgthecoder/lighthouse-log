@@ -3,5 +3,6 @@ location: Trondheim Fjord, Norway
 coordinates: 63.7361 N, 9.7211 E
 built: 1880
 height_m: 17
+lens_type: Fourth-order Fresnel
 notes: Octagonal wooden lighthouse on a small skerry, still staffed seasonally as a bed-and-breakfast.
 status: Active

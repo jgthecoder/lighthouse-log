@@ -3,5 +3,6 @@ location: Outer Banks, North Carolina, USA
 coordinates: 35.2504 N, -75.5296 W
 built: 1870
 height_m: 64.6 
+lens_type: First-order Fresnel
 notes: Tallest brick lighthouse in the United States. Moved 880 meters inland in 1999 to escape coastal erosion.
 status: Active

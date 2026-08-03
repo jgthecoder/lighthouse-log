@@ -3,5 +3,6 @@ location: Nova Scotia, Canada
 coordinates: 44.4917 N, -63.9147 W
 built: 1915
 height_m: 15.2
+lens_type: Modern rotating beacon
 notes: One of the most photographed lighthouses in the world; sits on wave-washed granite bedrock.
 status: Active
