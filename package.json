@@ -1,6 +1,6 @@
 {
   "name": "lighthouse-log",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "private": true,
   "description": "A test project for practicing Conventional Commits and automated semantic versioning.",
   "devDependencies": {
