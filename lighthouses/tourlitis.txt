@@ -1,5 +1,6 @@
 name: Tourlitis Lighthouse
 location: Andros Island, Greece
+coordinates: 37.8811 N, 24.9525 E
 built: 1897
 height_m: 25 
 notes: Rebuilt in 1994 after the original was destroyed in WWII. The only lighthouse in Greece built on a rock in the sea rather than on land.

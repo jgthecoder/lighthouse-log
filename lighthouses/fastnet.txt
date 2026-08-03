@@ -1,5 +1,6 @@
 name: Fastnet Lighthouse
 location: Fastnet Rock, off County Cork, Ireland
+coordinates: 51.3883 N, -9.6027 W
 built: 1904
 height_m: 49 
 notes: Known as "Ireland's Teardrop," the last piece of Ireland emigrants would see on their way to America.

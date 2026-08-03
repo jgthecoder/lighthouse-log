@@ -1,5 +1,6 @@
 name: Eddystone Lighthouse
 location: Eddystone Rocks, English Channel, England
+coordinates: 50.1108 N, -4.3158 W
 built: 1882 (fourth lighthouse; first lit 1699)
 height_m: 49 
 notes: Fourth lighthouse built on this reef; the previous one, Smeaton's Tower, was dismantled and re-erected in Plymouth.
