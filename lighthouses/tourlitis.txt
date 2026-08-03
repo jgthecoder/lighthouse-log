@@ -3,3 +3,4 @@ Location: Andros Island, Greece
 Built: 1897 (rebuilt 1994)
 Height: 25 meters
 Notable: The only lighthouse in Greece built on a rock in the sea rather than on land.
+Status: Active
