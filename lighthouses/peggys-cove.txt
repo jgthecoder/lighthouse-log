@@ -1,6 +1,6 @@
 name: Peggy's Cove Lighthouse
 location: Nova Scotia, Canada
 built: 1915
-height_m: 15 
+height_m: 15.2
 notes: One of the most photographed lighthouses in the world; sits on wave-washed granite bedrock.
 status: Active
