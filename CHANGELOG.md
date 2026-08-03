@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/jgthecoder/lighthouse-log/compare/v2.0.0...v2.0.1) (2026-08-03)
+
+
+### Bug Fixes
+
+* move commit log back to root directory ([754a8d9](https://github.com/jgthecoder/lighthouse-log/commit/754a8d996e45a3179a0231d0de520c073940cc2c))
+
 # [2.0.0](https://github.com/jgthecoder/lighthouse-log/compare/v1.0.1...v2.0.0) (2026-08-03)
 
 
